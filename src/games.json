@@ -1,0 +1,50 @@
+[
+  {
+    "id": "slope",
+    "title": "Slope",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "category": "Action",
+    "iframeUrl": "https://slope-game.github.io/",
+    "description": "A fast-paced 3D running game where you navigate a ball through a neon-lit obstacle course."
+  },
+  {
+    "id": "2048",
+    "title": "2048",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "category": "Puzzle",
+    "iframeUrl": "https://play2048.co/",
+    "description": "Join the numbers and get to the 2048 tile!"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "category": "Puzzle",
+    "iframeUrl": "https://tetris.com/play-tetris",
+    "description": "The classic block-stacking puzzle game."
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "thumbnail": "https://picsum.photos/seed/cookie/400/300",
+    "category": "Casual",
+    "iframeUrl": "https://orteil.dashnet.org/cookieclicker/",
+    "description": "The original idle game where you bake an infinite number of cookies."
+  },
+  {
+    "id": "crossy-road",
+    "title": "Crossy Road",
+    "thumbnail": "https://picsum.photos/seed/crossy/400/300",
+    "category": "Action",
+    "iframeUrl": "https://www.poki.com/en/g/crossy-road",
+    "description": "Why did the chicken cross the road? Find out in this endless arcade hopper."
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "thumbnail": "https://picsum.photos/seed/flappy/400/300",
+    "category": "Casual",
+    "iframeUrl": "https://flappybird.io/",
+    "description": "Fly through the pipes without hitting them in this challenging arcade game."
+  }
+]
